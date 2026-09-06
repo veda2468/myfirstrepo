@@ -1,3 +1,4 @@
+we are learning branches concept
 // Every line of code in Java must be inside a class. 
 // The class name must exactly match the filename (e.g., Main.java).
 public class Main {
